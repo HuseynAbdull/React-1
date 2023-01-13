@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Huseyn",
+      "phone": "0707442044",
+      "email": "huseynka@code.edu.az",
+      "id": 1
+    },
+    {
+      "name": "Semed Eliyev",
+      "phone": "0503332211",
+      "email": "semed@mail.ru",
+      "id": 2
+    }
+  ]
+}

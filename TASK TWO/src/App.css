@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  background-color: gray;
+  padding: 1.5rem;
+
+}
+header a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+header .left{
+  font-size: 35px;
+}
+header .right{
+  font-size: 23px;
+  text-align: end;
+}
